@@ -1,4 +1,4 @@
-module github.com/meshplus/bitxhub-kit
+module github.com/theneverse/neverse-kit
 
 go 1.13
 
