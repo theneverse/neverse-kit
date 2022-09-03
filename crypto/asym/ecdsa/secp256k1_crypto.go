@@ -24,13 +24,13 @@ import (
 	"encoding/hex"
 	"errors"
 	"fmt"
+	"github.com/ethereum/go-ethereum/crypto/secp256k1"
 	"hash"
 	"io"
 	"io/ioutil"
 	"math/big"
 	"os"
 
-	"github.com/theneverse/neverse-kit/crypto/asym/ecdsa/secp256k1"
 	"golang.org/x/crypto/sha3"
 )
 
