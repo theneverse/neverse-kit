@@ -8,8 +8,8 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/meshplus/bitxhub-kit/log"
-	"github.com/meshplus/bitxhub-kit/types"
+	"github.com/theneverse/neverse-kit/log"
+	"github.com/theneverse/neverse-kit/types"
 	"github.com/stretchr/testify/assert"
 )
 

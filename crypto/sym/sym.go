@@ -4,7 +4,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/meshplus/bitxhub-kit/crypto"
+	"github.com/theneverse/neverse-kit/crypto"
 )
 
 var (

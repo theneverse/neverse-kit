@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/meshplus/bitxhub-kit/crypto"
-	"github.com/meshplus/bitxhub-kit/crypto/asym/ecdsa"
+	"github.com/theneverse/neverse-kit/crypto"
+	"github.com/theneverse/neverse-kit/crypto/asym/ecdsa"
 )
 
 type ellipticECDH struct {

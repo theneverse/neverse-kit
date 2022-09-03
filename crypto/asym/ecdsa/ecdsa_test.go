@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/meshplus/bitxhub-kit/crypto"
+	"github.com/theneverse/neverse-kit/crypto"
 	"github.com/stretchr/testify/require"
 )
 

@@ -13,8 +13,8 @@ import (
 	"github.com/libp2p/go-libp2p-core/network"
 	"github.com/libp2p/go-libp2p-core/peer"
 	"github.com/libp2p/go-libp2p-core/protocol"
-	"github.com/meshplus/bitxhub-kit/crypto/asym/ecdsa"
-	network_pb "github.com/meshplus/bitxhub-kit/network/pb"
+	"github.com/theneverse/neverse-kit/crypto/asym/ecdsa"
+	network_pb "github.com/theneverse/neverse-kit/network/pb"
 	"github.com/stretchr/testify/assert"
 )
 

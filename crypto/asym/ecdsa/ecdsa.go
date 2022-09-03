@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/meshplus/bitxhub-kit/crypto"
+	"github.com/theneverse/neverse-kit/crypto"
 )
 
 var _ crypto.PrivateKey = (*PrivateKey)(nil)

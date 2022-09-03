@@ -13,7 +13,7 @@ import (
 
 	mt "github.com/cbergoon/merkletree"
 	"github.com/golang/protobuf/jsonpb"
-	"github.com/meshplus/bitxhub-kit/hexutil"
+	"github.com/theneverse/neverse-kit/hexutil"
 	"golang.org/x/crypto/sha3"
 )
 

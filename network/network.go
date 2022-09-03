@@ -4,7 +4,7 @@ import (
 	"github.com/libp2p/go-libp2p-core/crypto"
 	"github.com/libp2p/go-libp2p-core/network"
 	"github.com/libp2p/go-libp2p-core/peer"
-	network_pb "github.com/meshplus/bitxhub-kit/network/pb"
+	network_pb "github.com/theneverse/neverse-kit/network/pb"
 )
 
 type ConnectCallback func(*peer.AddrInfo) error

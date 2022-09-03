@@ -8,7 +8,7 @@ import (
 
 	ggio "github.com/gogo/protobuf/io"
 	"github.com/libp2p/go-libp2p-core/network"
-	network_pb "github.com/meshplus/bitxhub-kit/network/pb"
+	network_pb "github.com/theneverse/neverse-kit/network/pb"
 )
 
 // handle newly connected stream

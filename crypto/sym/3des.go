@@ -7,7 +7,7 @@ import (
 	"crypto/rand"
 	"errors"
 
-	"github.com/meshplus/bitxhub-kit/crypto"
+	"github.com/theneverse/neverse-kit/crypto"
 )
 
 // TripleDES a 3DES instance is a tool to encrypt and decrypt

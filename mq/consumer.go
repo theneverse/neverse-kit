@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/meshplus/bitxhub-kit/log"
+	"github.com/theneverse/neverse-kit/log"
 	"github.com/sirupsen/logrus"
 	"github.com/streadway/amqp"
 )

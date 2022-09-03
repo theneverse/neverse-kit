@@ -8,8 +8,8 @@ import (
 	"fmt"
 
 	"github.com/btcsuite/btcd/btcec"
-	"github.com/meshplus/bitxhub-kit/crypto"
-	"github.com/meshplus/bitxhub-kit/types"
+	"github.com/theneverse/neverse-kit/crypto"
+	"github.com/theneverse/neverse-kit/types"
 )
 
 // PublicKey ECDSA public key.
